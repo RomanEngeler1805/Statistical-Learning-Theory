@@ -7,3 +7,4 @@ The topics of the exercises are:
 1) Locally linear embedding
 2) MCMC Sampling
 3) Deterministic Annealing
+4) Histogram Clustering
