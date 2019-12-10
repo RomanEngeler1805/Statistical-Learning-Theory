@@ -6,3 +6,4 @@ The sole purpose is to learn about techniques taught in class with no focus on p
 The topics of the exercises are:
 1) Locally linear embedding
 2) MCMC Sampling
+3) Deterministic Annealing
