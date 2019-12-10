@@ -11,3 +11,4 @@ The topics of the exercises are:
 5) Constant Shift Embedding
 6) Pairwise Clustering
 7) Mean Field Approximation
+8) Model Validation
