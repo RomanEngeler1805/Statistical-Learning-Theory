@@ -9,3 +9,4 @@ The topics of the exercises are:
 3) Deterministic Annealing
 4) Histogram Clustering
 5) Constant Shift Embedding
+6) Pairwise Clustering
