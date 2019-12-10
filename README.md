@@ -10,3 +10,4 @@ The topics of the exercises are:
 4) Histogram Clustering
 5) Constant Shift Embedding
 6) Pairwise Clustering
+7) Mean Field Approximation
